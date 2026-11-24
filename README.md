@@ -2,9 +2,9 @@
 
 Juego de obstáculos en **Unreal Engine 5.6**. En el primer nivel, un cubo rojo esquiva esferas y reúne monedas. En el segundo, una bola atraviesa un laberinto que gira.
 
-[![El cubo rojo entre los obstáculos del primer nivel](docs/cover.jpg)](docs/gameplay.mp4)
+![Partida de los dos niveles, del cubo rojo al laberinto giratorio](docs/gameplay-preview.webp)
 
-[Ver los dos niveles · 23 s](docs/gameplay.mp4)
+[Abrir el vídeo original · 23 s](docs/gameplay.mp4)
 
 ## Jugar en el editor
 
