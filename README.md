@@ -1,23 +1,29 @@
 # World Hardest Game Pro
 
-Juego de obstáculos de Chengxun Wu en **Unreal Engine 5.6**.
+Juego de obstáculos de Chengxun Wu en **Unreal Engine 5.6**. Elige un nivel para ver una muestra de la partida.
 
-## Nivel 1 · Esquivar y recoger monedas
+<details name="niveles" open>
+<summary id="nivel-1--esquivar-y-recoger-monedas"><strong>Nivel 1 · Esquivar y recoger monedas</strong> · Vista previa de 6 s</summary>
 
-El cubo rojo cruza la plataforma, esquiva las esferas azules y recoge las monedas hasta pasar al segundo nivel.
+El cubo rojo esquiva las esferas azules y recoge la cuarta moneda.
 
-![Partida del primer nivel: el cubo rojo entre las esferas azules](docs/nivel-1.webp)
+<img src="docs/nivel-1-limpio.webp" alt="El cubo rojo entre las monedas y las esferas azules del primer nivel" width="560">
 
-[Ver el nivel 1 completo en MP4 · 46 s](docs/nivel-1.mp4)
+[Ver la partida completa con sonido · 46 s (MP4)](docs/nivel-1.mp4)
 
-## Nivel 2 · Laberinto giratorio
+</details>
 
-Una bola roja avanza por los pasillos verdes mientras el tablero gira. La grabación termina al volver al menú.
+<details name="niveles">
+<summary id="nivel-2--laberinto-giratorio"><strong>Nivel 2 · Laberinto giratorio</strong> · Vista previa de 6 s</summary>
 
-![Partida del segundo nivel: la bola roja dentro del laberinto verde](docs/nivel-2.webp)
+La bola roja entra en el pasillo verde mientras gira el tablero.
 
-[Ver el nivel 2 completo en MP4 · 1 min 23 s](docs/nivel-2.mp4)
+<img src="docs/nivel-2-limpio.webp" alt="La bola roja recorre el laberinto giratorio del segundo nivel" width="560">
+
+[Ver la partida completa con sonido · 1 min 23 s (MP4)](docs/nivel-2.mp4)
+
+</details>
 
 ## Jugar en el editor
 
-Abre [WorldHardestGamePro.uproject](WorldHardestGamePro.uproject) con Unreal Engine 5.6 y pulsa **Play** desde el menú principal. También puedes abrir directamente [MyLevel1](Content/Level/MyLevel1.umap) o [MyLevel2](Content/Level/MyLevel2.umap).
+Abre [WorldHardestGamePro.uproject](WorldHardestGamePro.uproject) con Unreal Engine 5.6. Pulsa **Play** desde el menú principal o abre directamente [MyLevel1](Content/Level/MyLevel1.umap) o [MyLevel2](Content/Level/MyLevel2.umap).
